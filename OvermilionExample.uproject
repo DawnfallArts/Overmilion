@@ -1,12 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.17",
+	"EngineAssociation": "4.18",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "Overmilion",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/72e218579b1e4aac9c797982abb5e4d7"
 		}
 	]
 }
